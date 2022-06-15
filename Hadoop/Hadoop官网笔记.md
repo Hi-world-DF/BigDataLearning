@@ -1,4 +1,4 @@
-## Hadoop官网笔记
+## Hadoop简单配置和使用
 
 安装Hadoop的先导软件：
 
