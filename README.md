@@ -5,7 +5,6 @@
 * [Hadoop简单配置和使用](https://github.com/Hi-world-DF/BigDataLearning/blob/main/Hadoop/Hadoop%E5%AE%98%E7%BD%91%E7%AC%94%E8%AE%B0.md)
 * [HDFS](https://github.com/Hi-world-DF/BigDataLearning/blob/main/Hadoop/HDFS.md)
 * [MapReduce]()
-* 
 
 ## 2.HBase
 
@@ -20,4 +19,4 @@
 
 ## 6.其他文档
 
-* [BigData帮助文档]()
+* [BigData帮助文档](https://github.com/Hi-world-DF/BigDataLearning/blob/main/BigData%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3.md)
