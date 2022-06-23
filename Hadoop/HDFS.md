@@ -25,7 +25,7 @@ HDFS采用主从结构，一个HDFS包括一个主控节点NameNode和一组Data
 ## 3.HDFS 上传文件和下载文件流程
 
 ### 3.1 HDFS上传流程
-![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs.png)
+![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs_write.png)
 
 ### 3.2 HDFS下载流程
-![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs.png)
+![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs_read.png)
