@@ -20,3 +20,12 @@ HDFS采用主从结构，一个HDFS包括一个主控节点NameNode和一组Data
 * 每个DataNode的数据实际存储在每个节点的本地Linux文件系统中。
 
 ## 2.HDFS 组成部分
+
+
+## 3.HDFS 上传文件和下载文件流程
+
+### 3.1 HDFS上传流程
+![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs.png)
+
+### 3.2 HDFS下载流程
+![](https://github.com/Hi-world-DF/BigDataLearning/blob/main/imgs/hdfs.png)
